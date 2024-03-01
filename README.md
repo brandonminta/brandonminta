@@ -8,8 +8,6 @@ Physicist, data whisperer, and complexity enthusiast. Welcome to my corner of th
 
 🌐 My playground? The vast expanse of data! I thrive on unraveling patterns, predicting chaos, and turning raw information into meaningful insights. 📊
 
-🧩 When I'm not lost in the matrix, you'll find me tinkering with **Python**, sculpting elegant algorithms, and coaxing data into submission. 💻
-
 ## What You'll Find Here
 
 🚀 **Projects Galore**: Dive into my constellation of projects—each a celestial collision of science, code, and curiosity. 🌠
